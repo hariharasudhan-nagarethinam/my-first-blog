@@ -16,4 +16,5 @@ class Math:
 			return self.x * self.y
 		
 	def div(self):
-		return self.x / self.y
+		if x is not None and y is not None:
+			return self.x / self.y
